@@ -1,0 +1,27 @@
+.header {
+    font-family: monospace;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#1f2937;
+    height:70px;
+}
+
+.himg {
+    margin-left:50px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    margin-top: 10px;
+    margin-right: 50px;
+    padding: 0;
+    gap: 8px
+}
+
+a {
+    color:white;
+    text-decoration: none;
+    padding: 8px;
+}
